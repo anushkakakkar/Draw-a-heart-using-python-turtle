@@ -1,5 +1,3 @@
-#impress your crush using python
-
 # importing the turtle module
 import turtle
 
